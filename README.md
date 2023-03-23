@@ -9,7 +9,7 @@ In this project, I used 5 API endpoints and did 2 Web Scrapes in order to colect
 - Estimated number of owners, Lowest & Highest number of Players, Mean number of players, Current number of online players and Average Playthrough Time
 - Additional Information (Age Restrictions, Warnings, Achievements, Controller Support, Subtitles, Virtual Reality)
 
-With some Machine Learning (XGBoost), I also optimized a model that would predict the price of game when given its properties (with a F-Score of 0,97 and root mean square error of only 1,75€
+With some Machine Learning (XGBoost), I also optimized a model that would predict the price of game when given its properties (with a F-Score of 0,97 and root mean square error of only 1,75€)
 
 Then, I created a database on SQL to store all the important data I had collected, cleaned and processed;
 
